@@ -20,5 +20,6 @@
   "breadcrumbs.enabled": false,
   "accessibility.dimUnfocused.enabled": true,
   "accessibility.dimUnfocused.opacity": 0.2,
-  "terminal.external.linuxExec": "alacritty"
+  "terminal.external.linuxExec": "alacritty",
+  "workbench.panel.defaultLocation": "right" // Force panel to be on the right
 }
