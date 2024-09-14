@@ -1,0 +1,24 @@
+{
+  "background.editorBackgrounds": [
+    "file:///home/kliea/Documents/Configs/VS_Code/Imgs/C7sfz2yl.jpeg" // Path for editor background image
+  ],
+  "background.panelBackgrounds": [
+    "file:///home/kliea/Documents/Configs/VS_Code/Imgs/gNfLwJ8v.jpeg" // Path for terminal background image
+  ],
+  "background.sidebarBackgrounds": [
+    "file:///home/kliea/Documents/Configs/VS_Code/Imgs/bdEnKxzf.jpeg" // Path for sidebar background image
+  ],
+  "background.backgroundOpacity": 0.5, // Adjust opacity as needed (0 is fully visible, 1 is fully transparent)
+  "background.backgroundSize": "cover", // Size of the background image
+  "background.backgroundAlignment": "center center",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.autoLockGroups": {
+    "imagePreview.previewEditor": true
+  },
+  "window.menuBarVisibility": "compact",
+  "window.titleBarStyle": "custom",
+  "breadcrumbs.enabled": false,
+  "accessibility.dimUnfocused.enabled": true,
+  "accessibility.dimUnfocused.opacity": 0.2,
+  "terminal.external.linuxExec": "alacritty"
+}
